@@ -7,7 +7,7 @@
 </div>
 
 Senior Software Engineer 
-Java | Spring | Javascript/Typescript | ReactJS | NextJS | Golang
+Java | Spring | Javascript/Typescript | ReactJS | NextJS 
 
 Welcome to my code world! I love technology, programming, and travel. 
 
