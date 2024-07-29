@@ -6,8 +6,8 @@
 <a href="https://www.linkedin.com/in/larissafalcao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-ef4025?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-Senior Software Engineer 
-Java | Spring | Javascript/Typescript | ReactJS | NextJS 
+Software Engineer 
+Java | Spring | Javascript/Typescript | ReactJS 
 
 Welcome to my code world! I love technology, programming, and travel. 
 
