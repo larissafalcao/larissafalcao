@@ -1,6 +1,6 @@
 # Hi dev! 👋
 
-I'm Larissa Falcão, a Software Engineer and I've been working in technology since 2012.
+I'm Larissa Falcão, a software engineer with 11 years of experience in software development. I specialize in Java, Spring, and React. I have delivered scalable, high-performance solutions across public education, healthcare, finance, e-commerce, marketplace, and fintech industries. My work spans from startups to large corporations, always focused on transforming complex challenges into scalable and effective solutions. 
 <div>
 <a href="https://www.youtube.com/https://www.youtube.com/channel/UCpwQbijXpUSvhH7yNk17DKg" target="_blank"><img src="https://img.shields.io/badge/YouTube-ef4025?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/larissafalcaodev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ef4025?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
