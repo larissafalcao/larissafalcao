@@ -4,7 +4,7 @@ I'm Larissa Falcão, a Software Engineer and I've been working in technology sin
 <div>
 <a href="https://www.youtube.com/https://www.youtube.com/channel/UCpwQbijXpUSvhH7yNk17DKg" target="_blank"><img src="https://img.shields.io/badge/YouTube-ef4025?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/larissafalcaodev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ef4025?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:larissafalcao.arruda@gmail.com"><img src="https://img.shields.io/badge/Gmail-ef4025?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@larissafalcao.com.br"><img src="https://img.shields.io/badge/Gmail-ef4025?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/larissafalcao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-ef4025?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
