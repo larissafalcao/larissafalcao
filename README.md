@@ -16,7 +16,7 @@ and production-grade AI infrastructure.
   <a href="https://larissafalcao.com.br" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-ef4025?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
-  <a href="https://instagram.com/larissafalcaodev" target="_blank">
+  <a href="https://instagram.com/larissafalcao.a" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-ef4025?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.youtube.com/channel/UCpwQbijXpUSvhH7yNk17DKg" target="_blank">
