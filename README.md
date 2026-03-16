@@ -9,8 +9,6 @@ Java & Spring Boot are my core. Go and React are in the toolkit.
 Currently expanding into AI Engineering: LLM integration, RAG-enabled systems,
 and production-grade AI infrastructure.
 
-Open to US remote opportunities.
-
 <div>
   <a href="https://www.linkedin.com/in/larissafalcao" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-ef4025?style=for-the-badge&logo=linkedin&logoColor=white">
